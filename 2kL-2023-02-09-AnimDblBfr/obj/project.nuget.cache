@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GULo5q3AyjrnvYrqCG8JduVv6VZXhqYHHce2Y54JAa4POVnzWv1kx/VVUgIRWi/pKnd81UN4jY2xnqqKa1hDbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\animation_circles3\\2kL-2023-02-09-AnimDblBfr\\2kL-2023-02-09-AnimDblBfr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
